@@ -1,0 +1,26 @@
+{
+  "name": "skysail-designer-js",
+  "version": "0.0.1",
+  "description": "javascript lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evandor/skysail-designer-js.git"
+  },
+  "keywords": [
+    "ERM"
+  ],
+  "author": "Carsten Graef <evandor@gmail.com> (http://www.skysail.io)",
+  "license": "Apache2.0",
+  "bugs": {
+    "url": "https://github.com/evandor/skysail-designer-js/issues"
+  },
+  "homepage": "https://github.com/evandor/skysail-designer-js",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
